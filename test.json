@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "url": "https://portfolio-asset-data.s3.amazonaws.com/images/?AWSAccessKeyId=AKIA2YVNVRNGM42WAB4U&Signature=56FHjPuGXf3YFFyVE1gc6TWWJxI%3D&Expires=1701917356",
+            "key": "images/"
+        },
+        {
+            "url": "https://portfolio-asset-data.s3.amazonaws.com/images/andy2.jpg?AWSAccessKeyId=AKIA2YVNVRNGM42WAB4U&Signature=IPGBAfQWH4DUylkUvTSw5xljC0I%3D&Expires=1701917356",
+            "key": "images/andy2.jpg"
+        },
+        {
+            "url": "https://portfolio-asset-data.s3.amazonaws.com/images/andycamp.JPG?AWSAccessKeyId=AKIA2YVNVRNGM42WAB4U&Signature=T8JjtBRm7mQB1F1tQ%2BzE%2BvXXB7U%3D&Expires=1701917356",
+            "key": "images/andycamp.JPG"
+        },
+        {
+            "url": "https://portfolio-asset-data.s3.amazonaws.com/images/camp.jpeg?AWSAccessKeyId=AKIA2YVNVRNGM42WAB4U&Signature=V6BQ4I1be6KKjKh9f2nWZ%2FwWU3U%3D&Expires=1701917356",
+            "key": "images/camp.jpeg"
+        },
+        {
+            "url": "https://portfolio-asset-data.s3.amazonaws.com/images/camp2.jpeg?AWSAccessKeyId=AKIA2YVNVRNGM42WAB4U&Signature=hRKhdSidPf7PPATMZqPe00oOvxw%3D&Expires=1701917356",
+            "key": "images/camp2.jpeg"
+        },
+        {
+            "url": "https://portfolio-asset-data.s3.amazonaws.com/images/camp3.jpg?AWSAccessKeyId=AKIA2YVNVRNGM42WAB4U&Signature=lbFUwkR4%2BORXjjnra8vwmCNzCNU%3D&Expires=1701917356",
+            "key": "images/camp3.jpg"
+        },
+        {
+            "url": "https://portfolio-asset-data.s3.amazonaws.com/images/capetown.jpg?AWSAccessKeyId=AKIA2YVNVRNGM42WAB4U&Signature=qRq%2FzhSd%2BmZV6JTZCqOvtjVcTI8%3D&Expires=1701917356",
+            "key": "images/capetown.jpg"
+        },
+        {
+            "url": "https://portfolio-asset-data.s3.amazonaws.com/images/cookies.jpg?AWSAccessKeyId=AKIA2YVNVRNGM42WAB4U&Signature=ZN5el7%2Bf2D0AjY5Y1bZQKOrIZdQ%3D&Expires=1701917356",
+            "key": "images/cookies.jpg"
+        },
+        {
+            "url": "https://portfolio-asset-data.s3.amazonaws.com/images/disco.jpg?AWSAccessKeyId=AKIA2YVNVRNGM42WAB4U&Signature=ki7yEmd8e13bXEaVz%2BUvP3HZXA8%3D&Expires=1701917356",
+            "key": "images/disco.jpg"
+        },
+        {
+            "url": "https://portfolio-asset-data.s3.amazonaws.com/images/show.jpeg?AWSAccessKeyId=AKIA2YVNVRNGM42WAB4U&Signature=CRfY2NVnlHkFAPymvROqeQZtmfQ%3D&Expires=1701917356",
+            "key": "images/show.jpeg"
+        },
+        {
+            "url": "https://portfolio-asset-data.s3.amazonaws.com/images/snow.jpeg?AWSAccessKeyId=AKIA2YVNVRNGM42WAB4U&Signature=2bbZHc2CAfY6bS1pdReNZ%2B7nUfM%3D&Expires=1701917356",
+            "key": "images/snow.jpeg"
+        },
+        {
+            "url": "https://portfolio-asset-data.s3.amazonaws.com/images/sunset.jpeg?AWSAccessKeyId=AKIA2YVNVRNGM42WAB4U&Signature=H27MPL2pdHXkeZjE%2B4NUGQymQ4c%3D&Expires=1701917356",
+            "key": "images/sunset.jpeg"
+        }
+    ]
+}
